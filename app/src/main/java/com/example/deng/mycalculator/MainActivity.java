@@ -1,5 +1,4 @@
 package com.example.deng.mycalculator;
-
         import android.app.AlertDialog;
         import android.content.DialogInterface;
         import android.support.v7.app.AppCompatActivity;
